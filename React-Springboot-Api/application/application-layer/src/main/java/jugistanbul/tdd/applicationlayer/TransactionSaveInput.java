@@ -1,10 +1,10 @@
 package jugistanbul.tdd.applicationlayer;
 
-import lombok.Data;
-import lombok.EqualsAndHashCode;
-import lombok.ToString;
+import  lombok.Data;
+import  lombok.EqualsAndHashCode;
+import  lombok.ToString;
 
-import java.util.Objects;
+import  java.util.Objects;
 
 @Data
 @ToString
